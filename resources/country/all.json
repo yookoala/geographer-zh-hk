@@ -8,31 +8,31 @@
     {
         "code": "AX",
         "long": {
-            "default": "奥兰群岛"
+            "default": "奧蘭群島"
         }
     },
     {
         "code": "AL",
         "long": {
-            "default": "阿尔巴尼亚"
+            "default": "阿爾巴尼亞"
         }
     },
     {
         "code": "DZ",
         "long": {
-            "default": "阿尔及利亚"
+            "default": "阿爾及利亞"
         }
     },
     {
         "code": "AS",
         "long": {
-            "default": "美属萨摩亚"
+            "default": "美屬薩摩亞"
         }
     },
     {
         "code": "AD",
         "long": {
-            "default": "安道尔"
+            "default": "安道爾"
         }
     },
     {
@@ -50,13 +50,13 @@
     {
         "code": "AQ",
         "long": {
-            "default": "南极洲"
+            "default": "南極洲"
         }
     },
     {
         "code": "AG",
         "long": {
-            "default": "安提瓜和巴布达"
+            "default": "安提瓜和巴布達"
         }
     },
     {
@@ -68,25 +68,25 @@
     {
         "code": "AM",
         "long": {
-            "default": "亚美尼亚"
+            "default": "亞美尼亞"
         }
     },
     {
         "code": "AW",
         "long": {
-            "default": "阿鲁巴"
+            "default": "阿魯巴"
         }
     },
     {
         "code": "AU",
         "long": {
-            "default": "澳大利亚"
+            "default": "澳洲"
         }
     },
     {
         "code": "AT",
         "long": {
-            "default": "奥地利"
+            "default": "奧地利"
         }
     },
     {
@@ -98,7 +98,7 @@
     {
         "code": "BS",
         "long": {
-            "default": "巴哈马"
+            "default": "巴哈馬"
         }
     },
     {
@@ -122,31 +122,31 @@
     {
         "code": "BY",
         "long": {
-            "default": "白俄罗斯"
+            "default": "白俄羅斯"
         }
     },
     {
         "code": "BE",
         "long": {
-            "default": "比利时"
+            "default": "比利時"
         }
     },
     {
         "code": "BZ",
         "long": {
-            "default": "伯利兹"
+            "default": "伯利茲"
         }
     },
     {
         "code": "BJ",
         "long": {
-            "default": "贝宁"
+            "default": "貝寧"
         }
     },
     {
         "code": "BM",
         "long": {
-            "default": "百慕大"
+            "default": "百慕達"
         }
     },
     {
@@ -158,31 +158,31 @@
     {
         "code": "BO",
         "long": {
-            "default": "玻利维亚"
+            "default": "玻利維亞"
         }
     },
     {
         "code": "BQ",
         "long": {
-            "default": "博奈尔岛、圣尤斯达蒂斯和萨巴"
+            "default": "博奈爾島、聖尤斯達蒂斯和薩巴"
         }
     },
     {
         "code": "BA",
         "long": {
-            "default": "波斯尼亚和黑山共和国"
+            "default": "波斯尼亞和黑山共和國"
         }
     },
     {
         "code": "BW",
         "long": {
-            "default": "博茨瓦纳"
+            "default": "博茨瓦納"
         }
     },
     {
         "code": "BV",
         "long": {
-            "default": "布维特岛"
+            "default": "布維特島"
         }
     },
     {
@@ -194,25 +194,25 @@
     {
         "code": "IO",
         "long": {
-            "default": "英属印度洋领地"
+            "default": "英屬印度洋領地"
         }
     },
     {
         "code": "BN",
         "long": {
-            "default": "文莱"
+            "default": "汶萊"
         }
     },
     {
         "code": "BG",
         "long": {
-            "default": "保加利亚"
+            "default": "保加利亞"
         }
     },
     {
         "code": "BF",
         "long": {
-            "default": "布基纳法索"
+            "default": "布基納法索"
         }
     },
     {
@@ -236,7 +236,7 @@
     {
         "code": "CM",
         "long": {
-            "default": "喀麦隆"
+            "default": "喀麥隆"
         }
     },
     {
@@ -248,13 +248,13 @@
     {
         "code": "KY",
         "long": {
-            "default": "开曼群岛"
+            "default": "開曼群島"
         }
     },
     {
         "code": "CF",
         "long": {
-            "default": "中非共和国"
+            "default": "中非共和國"
         }
     },
     {
@@ -272,55 +272,55 @@
     {
         "code": "CN",
         "long": {
-            "default": "中国"
+            "default": "中國"
         }
     },
     {
         "code": "CX",
         "long": {
-            "default": "圣诞岛"
+            "default": "聖誕島"
         }
     },
     {
         "code": "CC",
         "long": {
-            "default": "科科斯群岛"
+            "default": "科科斯群島"
         }
     },
     {
         "code": "CO",
         "long": {
-            "default": "哥伦比亚"
+            "default": "哥倫比亞"
         }
     },
     {
         "code": "KM",
         "long": {
-            "default": "科摩罗"
+            "default": "科摩羅"
         }
     },
     {
         "code": "CG",
         "long": {
-            "default": "刚果"
+            "default": "剛果"
         }
     },
     {
         "code": "CD",
         "long": {
-            "default": "扎伊尔"
+            "default": "扎伊爾"
         }
     },
     {
         "code": "CK",
         "long": {
-            "default": "库克群岛"
+            "default": "庫克群島"
         }
     },
     {
         "code": "CR",
         "long": {
-            "default": "哥斯达黎加"
+            "default": "哥斯達黎加"
         }
     },
     {
@@ -332,7 +332,7 @@
     {
         "code": "HR",
         "long": {
-            "default": "克罗地亚"
+            "default": "克羅地亞"
         }
     },
     {
@@ -344,7 +344,7 @@
     {
         "code": "CW",
         "long": {
-            "default": "库拉索"
+            "default": "庫拉索"
         }
     },
     {
@@ -356,13 +356,13 @@
     {
         "code": "CZ",
         "long": {
-            "default": "捷克共和国"
+            "default": "捷克共和國"
         }
     },
     {
         "code": "DK",
         "long": {
-            "default": "丹麦"
+            "default": "丹麥"
         }
     },
     {
@@ -380,13 +380,13 @@
     {
         "code": "DO",
         "long": {
-            "default": "多米尼加共和国"
+            "default": "多米尼加共和國"
         }
     },
     {
         "code": "EC",
         "long": {
-            "default": "厄瓜多尔"
+            "default": "厄瓜多爾"
         }
     },
     {
@@ -398,79 +398,79 @@
     {
         "code": "SV",
         "long": {
-            "default": "萨尔瓦多"
+            "default": "薩爾瓦多"
         }
     },
     {
         "code": "GQ",
         "long": {
-            "default": "赤道几内亚"
+            "default": "赤道幾內亞"
         }
     },
     {
         "code": "ER",
         "long": {
-            "default": "厄立特里亚"
+            "default": "厄立特里亞"
         }
     },
     {
         "code": "EE",
         "long": {
-            "default": "爱沙尼亚"
+            "default": "愛沙尼亞"
         }
     },
     {
         "code": "ET",
         "long": {
-            "default": "埃塞俄比亚"
+            "default": "埃塞俄比亞"
         }
     },
     {
         "code": "FK",
         "long": {
-            "default": "福克兰群岛"
+            "default": "福克蘭群島"
         }
     },
     {
         "code": "FO",
         "long": {
-            "default": "法罗群岛"
+            "default": "法羅群島"
         }
     },
     {
         "code": "FJ",
         "long": {
-            "default": "斐济"
+            "default": "斐濟"
         }
     },
     {
         "code": "FI",
         "long": {
-            "default": "芬兰"
+            "default": "芬蘭"
         }
     },
     {
         "code": "FR",
         "long": {
-            "default": "法国"
+            "default": "法國"
         }
     },
     {
         "code": "GF",
         "long": {
-            "default": "法属圭亚那"
+            "default": "法屬圭亞那"
         }
     },
     {
         "code": "PF",
         "long": {
-            "default": "法属波利尼西亚"
+            "default": "法屬波利尼西亞"
         }
     },
     {
         "code": "TF",
         "long": {
-            "default": "法属南部领土"
+            "default": "法屬南部領土"
         }
     },
     {
@@ -482,91 +482,91 @@
     {
         "code": "GM",
         "long": {
-            "default": "冈比亚"
+            "default": "岡比亞"
         }
     },
     {
         "code": "GE",
         "long": {
-            "default": "格鲁吉亚"
+            "default": "格魯吉亞"
         }
     },
     {
         "code": "DE",
         "long": {
-            "default": "德国"
+            "default": "德國"
         }
     },
     {
         "code": "GH",
         "long": {
-            "default": "加纳"
+            "default": "加納"
         }
     },
     {
         "code": "GI",
         "long": {
-            "default": "直布罗陀"
+            "default": "直布羅陀"
         }
     },
     {
         "code": "GR",
         "long": {
-            "default": "希腊"
+            "default": "希臘"
         }
     },
     {
         "code": "GL",
         "long": {
-            "default": "格陵兰"
+            "default": "格陵蘭"
         }
     },
     {
         "code": "GD",
         "long": {
-            "default": "格林纳达"
+            "default": "格林納達"
         }
     },
     {
         "code": "GP",
         "long": {
-            "default": "瓜德罗普岛"
+            "default": "瓜德羅普島"
         }
     },
     {
         "code": "GU",
         "long": {
-            "default": "关岛"
+            "default": "關島"
         }
     },
     {
         "code": "GT",
         "long": {
-            "default": "危地马拉"
+            "default": "危地馬拉"
         }
     },
     {
         "code": "GG",
         "long": {
-            "default": "格恩西岛"
+            "default": "格恩西島"
         }
     },
     {
         "code": "GN",
         "long": {
-            "default": "几内亚"
+            "default": "幾內亞"
         }
     },
     {
         "code": "GW",
         "long": {
-            "default": "几内亚比绍"
+            "default": "幾內亞比紹"
         }
     },
     {
         "code": "GY",
         "long": {
-            "default": "圭亚那"
+            "default": "圭亞那"
         }
     },
     {
@@ -578,13 +578,13 @@
     {
         "code": "HM",
         "long": {
-            "default": "赫德与麦克唐纳群岛"
+            "default": "赫德與麥克唐納群島"
         }
     },
     {
         "code": "VA",
         "long": {
-            "default": "圣座（梵蒂冈）"
+            "default": "聖座（梵蒂岡）"
         }
     },
     {
@@ -608,7 +608,7 @@
     {
         "code": "IS",
         "long": {
-            "default": "冰岛"
+            "default": "冰島"
         }
     },
     {
@@ -620,13 +620,13 @@
     {
         "code": "ID",
         "long": {
-            "default": "印度尼西亚"
+            "default": "印度尼西亞"
         }
     },
     {
         "code": "IR",
         "long": {
-            "default": "伊朗伊斯兰共和国"
+            "default": "伊朗伊斯蘭共和國"
         }
     },
     {
@@ -638,13 +638,13 @@
     {
         "code": "IE",
         "long": {
-            "default": "爱尔兰"
+            "default": "愛爾蘭"
         }
     },
     {
         "code": "IM",
         "long": {
-            "default": "曼岛"
+            "default": "曼島"
         }
     },
     {
@@ -662,7 +662,7 @@
     {
         "code": "JM",
         "long": {
-            "default": "牙买加"
+            "default": "牙買加"
         }
     },
     {
@@ -674,25 +674,25 @@
     {
         "code": "JE",
         "long": {
-            "default": "泽西岛"
+            "default": "澤西島"
         }
     },
     {
         "code": "JO",
         "long": {
-            "default": "约旦"
+            "default": "約旦"
         }
     },
     {
         "code": "KZ",
         "long": {
-            "default": "哈萨克斯坦"
+            "default": "哈薩克斯坦"
         }
     },
     {
         "code": "KE",
         "long": {
-            "default": "肯尼亚"
+            "default": "肯尼亞"
         }
     },
     {
@@ -704,13 +704,13 @@
     {
         "code": "KP",
         "long": {
-            "default": "朝鲜民主共和国"
+            "default": "朝鮮民主共和國"
         }
     },
     {
         "code": "KR",
         "long": {
-            "default": "大韩民国"
+            "default": "大韓民國"
         }
     },
     {
@@ -722,19 +722,19 @@
     {
         "code": "KG",
         "long": {
-            "default": "吉尔吉克斯坦"
+            "default": "吉爾吉克斯坦"
         }
     },
     {
         "code": "LA",
         "long": {
-            "default": "老挝人民民主共和国"
+            "default": "老撾人民民主共和國"
         }
     },
     {
         "code": "LV",
         "long": {
-            "default": "拉脱维亚"
+            "default": "拉脫維亞"
         }
     },
     {
@@ -746,19 +746,19 @@
     {
         "code": "LS",
         "long": {
-            "default": "莱索托"
+            "default": "萊索托"
         }
     },
     {
         "code": "LR",
         "long": {
-            "default": "利比里亚"
+            "default": "利比里亞"
         }
     },
     {
         "code": "LY",
         "long": {
-            "default": "阿拉伯利比亚民众国"
+            "default": "阿拉伯利比亞民眾國"
         }
     },
     {
@@ -776,73 +776,73 @@
     {
         "code": "LU",
         "long": {
-            "default": "卢森堡"
+            "default": "盧森堡"
         }
     },
     {
         "code": "MO",
         "long": {
-            "default": "澳门"
+            "default": "澳門"
         }
     },
     {
         "code": "MK",
         "long": {
-            "default": "前南斯拉夫马其顿共和国"
+            "default": "前南斯拉夫馬其頓共和國"
         }
     },
     {
         "code": "MG",
         "long": {
-            "default": "马达加斯加"
+            "default": "馬達加斯加"
         }
     },
     {
         "code": "MW",
         "long": {
-            "default": "马拉维"
+            "default": "馬拉維"
         }
     },
     {
         "code": "MY",
         "long": {
-            "default": "马来西亚"
+            "default": "馬來西亞"
         }
     },
     {
         "code": "MV",
         "long": {
-            "default": "马尔代夫"
+            "default": "馬爾代夫"
         }
     },
     {
         "code": "ML",
         "long": {
-            "default": "马里"
+            "default": "馬里"
         }
     },
     {
         "code": "MT",
         "long": {
-            "default": "马耳他"
+            "default": "馬耳他"
         }
     },
     {
         "code": "MH",
         "long": {
-            "default": "马绍尔群岛"
+            "default": "馬紹爾群島"
         }
     },
     {
         "code": "MQ",
         "long": {
-            "default": "马提尼克群岛"
+            "default": "馬提尼克群島"
         }
     },
     {
         "code": "MR",
         "long": {
-            "default": "毛里塔尼亚"
+            "default": "毛里塔尼亞"
         }
     },
     {
@@ -854,7 +854,7 @@
     {
         "code": "YT",
         "long": {
-            "default": "马约特"
+            "default": "馬約特"
         }
     },
     {
@@ -866,19 +866,19 @@
     {
         "code": "FM",
         "long": {
-            "default": "密克罗尼西亚"
+            "default": "密克羅尼西亞"
         }
     },
     {
         "code": "MD",
         "long": {
-            "default": "摩尔多瓦共和国"
+            "default": "摩爾多瓦共和國"
         }
     },
     {
         "code": "MC",
         "long": {
-            "default": "摩纳哥"
+            "default": "摩納哥"
         }
     },
     {
@@ -890,13 +890,13 @@
     {
         "code": "ME",
         "long": {
-            "default": "黑山共和国"
+            "default": "黑山共和國"
         }
     },
     {
         "code": "MS",
         "long": {
-            "default": "蒙塞拉特群岛"
+            "default": "蒙塞拉特群島"
         }
     },
     {
@@ -914,43 +914,43 @@
     {
         "code": "MM",
         "long": {
-            "default": "缅甸"
+            "default": "緬甸"
         }
     },
     {
         "code": "NA",
         "long": {
-            "default": "纳米比亚"
+            "default": "納米比亞"
         }
     },
     {
         "code": "NR",
         "long": {
-            "default": "瑙鲁"
+            "default": "瑙魯"
         }
     },
     {
         "code": "NP",
         "long": {
-            "default": "尼泊尔"
+            "default": "尼泊爾"
         }
     },
     {
         "code": "NL",
         "long": {
-            "default": "荷兰"
+            "default": "荷蘭"
         }
     },
     {
         "code": "NC",
         "long": {
-            "default": "新喀里多尼亚"
+            "default": "新喀里多尼亞"
         }
     },
     {
         "code": "NZ",
         "long": {
-            "default": "新西兰"
+            "default": "新西蘭"
         }
     },
     {
@@ -962,31 +962,31 @@
     {
         "code": "NE",
         "long": {
-            "default": "尼日尔"
+            "default": "尼日爾"
         }
     },
     {
         "code": "NG",
         "long": {
-            "default": "尼日利亚"
+            "default": "尼日利亞"
         }
     },
     {
         "code": "NU",
         "long": {
-            "default": "纽埃"
+            "default": "紐埃"
         }
     },
     {
         "code": "NF",
         "long": {
-            "default": "诺福克岛"
+            "default": "諾福克島"
         }
     },
     {
         "code": "MP",
         "long": {
-            "default": "北马里亚纳群岛"
+            "default": "北馬里亞納群島"
         }
     },
     {
@@ -1010,25 +1010,25 @@
     {
         "code": "PW",
         "long": {
-            "default": "帕劳"
+            "default": "帛琉"
         }
     },
     {
         "code": "PS",
         "long": {
-            "default": "巴勒斯坦领土"
+            "default": "巴勒斯坦領土"
         }
     },
     {
         "code": "PA",
         "long": {
-            "default": "巴拿马"
+            "default": "巴拿馬"
         }
     },
     {
         "code": "PG",
         "long": {
-            "default": "巴布亚新几内亚"
+            "default": "巴布亞新幾內亞"
         }
     },
     {
@@ -1040,25 +1040,25 @@
     {
         "code": "PE",
         "long": {
-            "default": "秘鲁"
+            "default": "秘魯"
         }
     },
     {
         "code": "PH",
         "long": {
-            "default": "菲律宾"
+            "default": "菲律賓"
         }
     },
     {
         "code": "PN",
         "long": {
-            "default": "皮特凯恩群岛"
+            "default": "皮特凱恩群島"
         }
     },
     {
         "code": "PL",
         "long": {
-            "default": "波兰"
+            "default": "波蘭"
         }
     },
     {
@@ -1076,7 +1076,7 @@
     {
         "code": "QA",
         "long": {
-            "default": "卡塔尔"
+            "default": "卡塔爾"
         }
     },
     {
@@ -1088,79 +1088,79 @@
     {
         "code": "RO",
         "long": {
-            "default": "罗马尼亚"
+            "default": "羅馬尼亞"
         }
     },
     {
         "code": "RU",
         "long": {
-            "default": "俄罗斯"
+            "default": "俄羅斯"
         }
     },
     {
         "code": "RW",
         "long": {
-            "default": "卢旺达"
+            "default": "盧旺達"
         }
     },
     {
         "code": "BL",
         "long": {
-            "default": "圣巴泰勒米"
+            "default": "聖巴泰勒米"
         }
     },
     {
         "code": "SH",
         "long": {
-            "default": "圣赫勒拿"
+            "default": "聖赫勒拿"
         }
     },
     {
         "code": "KN",
         "long": {
-            "default": "圣基茨和尼维斯"
+            "default": "聖基茨和尼維斯"
         }
     },
     {
         "code": "LC",
         "long": {
-            "default": "圣卢西亚"
+            "default": "聖盧西亞"
         }
     },
     {
         "code": "MF",
         "long": {
-            "default": "圣马丁"
+            "default": "聖馬丁"
         }
     },
     {
         "code": "PM",
         "long": {
-            "default": "圣皮埃尔和密克隆"
+            "default": "聖皮埃爾和密克隆"
         }
     },
     {
         "code": "VC",
         "long": {
-            "default": "圣文森特和格林纳丁斯"
+            "default": "聖文森特和格林納丁斯"
         }
     },
     {
         "code": "WS",
         "long": {
-            "default": "萨摩亚"
+            "default": "薩摩亞"
         }
     },
     {
         "code": "SM",
         "long": {
-            "default": "圣马力诺"
+            "default": "聖馬力諾"
         }
     },
     {
         "code": "ST",
         "long": {
-            "default": "圣多美和普林西比"
+            "default": "聖多美和普林西比"
         }
     },
     {
@@ -1172,19 +1172,19 @@
     {
         "code": "SN",
         "long": {
-            "default": "塞内加尔"
+            "default": "塞內加爾"
         }
     },
     {
         "code": "RS",
         "long": {
-            "default": "塞尔维亚"
+            "default": "塞爾維亞"
         }
     },
     {
         "code": "SC",
         "long": {
-            "default": "塞舌尔群岛"
+            "default": "塞舌爾群島"
         }
     },
     {
@@ -1202,31 +1202,31 @@
     {
         "code": "SX",
         "long": {
-            "default": "圣马丁岛"
+            "default": "聖馬丁島"
         }
     },
     {
         "code": "SK",
         "long": {
-            "default": "斯洛伐克共和国"
+            "default": "斯洛伐克共和國"
         }
     },
     {
         "code": "SI",
         "long": {
-            "default": "斯洛文尼亚"
+            "default": "斯洛文尼亞"
         }
     },
     {
         "code": "SB",
         "long": {
-            "default": "所罗门群岛"
+            "default": "所羅門群島"
         }
     },
     {
         "code": "SO",
         "long": {
-            "default": "索马里"
+            "default": "索馬里"
         }
     },
     {
@@ -1238,13 +1238,13 @@
     {
         "code": "GS",
         "long": {
-            "default": "南乔治亚岛和南桑威齐群岛"
+            "default": "南喬治亞島和南桑威齊群島"
         }
     },
     {
         "code": "SS",
         "long": {
-            "default": "南苏丹"
+            "default": "南蘇丹"
         }
     },
     {
@@ -1256,31 +1256,31 @@
     {
         "code": "LK",
         "long": {
-            "default": "斯里兰卡"
+            "default": "斯里蘭卡"
         }
     },
     {
         "code": "SD",
         "long": {
-            "default": "苏丹"
+            "default": "蘇丹"
         }
     },
     {
         "code": "SR",
         "long": {
-            "default": "苏里南"
+            "default": "蘇里南"
         }
     },
     {
         "code": "SJ",
         "long": {
-            "default": "斯瓦尔巴特和扬马延"
+            "default": "斯瓦爾巴特和揚馬延"
         }
     },
     {
         "code": "SZ",
         "long": {
-            "default": "斯威士兰"
+            "default": "斯威士蘭"
         }
     },
     {
@@ -1298,13 +1298,13 @@
     {
         "code": "SY",
         "long": {
-            "default": "叙利亚"
+            "default": "敘利亞"
         }
     },
     {
         "code": "TW",
         "long": {
-            "default": "台湾"
+            "default": "台灣"
         }
     },
     {
@@ -1316,19 +1316,19 @@
     {
         "code": "TZ",
         "long": {
-            "default": "坦桑尼亚"
+            "default": "坦桑尼亞"
         }
     },
     {
         "code": "TH",
         "long": {
-            "default": "泰国"
+            "default": "泰國"
         }
     },
     {
         "code": "TL",
         "long": {
-            "default": "东帝汶"
+            "default": "東帝汶"
         }
     },
     {
@@ -1340,19 +1340,19 @@
     {
         "code": "TK",
         "long": {
-            "default": "托克劳"
+            "default": "托克勞"
         }
     },
     {
         "code": "TO",
         "long": {
-            "default": "汤加"
+            "default": "湯加"
         }
     },
     {
         "code": "TT",
         "long": {
-            "default": "特立尼达和多巴哥"
+            "default": "特立尼達和多巴哥"
         }
     },
     {
@@ -1370,79 +1370,79 @@
     {
         "code": "TM",
         "long": {
-            "default": "土库曼斯坦"
+            "default": "土庫曼斯坦"
         }
     },
     {
         "code": "TC",
         "long": {
-            "default": "特克斯和凯科斯群岛"
+            "default": "特克斯和凱科斯群島"
         }
     },
     {
         "code": "TV",
         "long": {
-            "default": "图瓦卢"
+            "default": "圖瓦盧"
         }
     },
     {
         "code": "UG",
         "long": {
-            "default": "乌干达"
+            "default": "烏干達"
         }
     },
     {
         "code": "UA",
         "long": {
-            "default": "乌克兰"
+            "default": "烏克蘭"
         }
     },
     {
         "code": "AE",
         "long": {
-            "default": "阿拉伯联合酋长国"
+            "default": "阿拉伯聯合酋長國"
         }
     },
     {
         "code": "GB",
         "long": {
-            "default": "英国"
+            "default": "英國"
         }
     },
     {
         "code": "US",
         "long": {
-            "default": "美国"
+            "default": "美國"
         }
     },
     {
         "code": "UM",
         "long": {
-            "default": "美国边远小岛"
+            "default": "美國邊遠小島"
         }
     },
     {
         "code": "UY",
         "long": {
-            "default": "乌拉圭"
+            "default": "烏拉圭"
         }
     },
     {
         "code": "UZ",
         "long": {
-            "default": "乌兹别克斯坦"
+            "default": "烏茲別克斯坦"
         }
     },
     {
         "code": "VU",
         "long": {
-            "default": "瓦努阿图"
+            "default": "瓦努阿圖"
         }
     },
     {
         "code": "VE",
         "long": {
-            "default": "委内瑞拉"
+            "default": "委內瑞拉"
         }
     },
     {
@@ -1454,19 +1454,19 @@
     {
         "code": "VG",
         "long": {
-            "default": "英属维京群岛"
+            "default": "英屬維京群島"
         }
     },
     {
         "code": "VI",
         "long": {
-            "default": "美属维京群岛"
+            "default": "美屬維京群島"
         }
     },
     {
         "code": "WF",
         "long": {
-            "default": "瓦利斯和富图纳"
+            "default": "瓦利斯和富圖納"
         }
     },
     {
@@ -1478,19 +1478,19 @@
     {
         "code": "YE",
         "long": {
-            "default": "也门"
+            "default": "也門"
         }
     },
     {
         "code": "ZM",
         "long": {
-            "default": "赞比亚"
+            "default": "贊比亞"
         }
     },
     {
         "code": "ZW",
         "long": {
-            "default": "津巴布韦"
+            "default": "津巴布韋"
         }
     }
 ]

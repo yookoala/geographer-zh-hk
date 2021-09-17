@@ -1,15 +1,15 @@
 {
-    "name": "menarasolutions/geographer-zh",
+    "name": "menarasolutions/geographer-zh-hk",
     "type": "library",
     "description": "Chinese (Mandarin) translations for Geographer library",
     "keywords": ["chinese","geographer","geolocation","localization"],
-    "homepage": "https://github.com/MenaraSolutions/geographer-zh",
+    "homepage": "https://github.com/yookoala/geographer-zh-hk",
     "license": "MIT",
     "authors": [
         {
-            "name": "Denis Mysenko",
-            "email": "denis@menara.com.au",
-            "homepage": "https://www.menara.com.au"
+            "name": "Koala Yeung",
+            "email": "koala@gmail.com",
+            "homepage": "https://github.com/yookoala"
         }
     ]
 }
